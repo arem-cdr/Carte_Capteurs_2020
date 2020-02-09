@@ -1,7 +1,5 @@
-# :eyeglasses: Carte_Capteurs_2020
+# :eyeglasses: Carte Capteurs CDR 2020
 ------------------------------------------------------------------------
-
-Code pour la carte capteur du robot de la CDR 2020
 
 Le but de cette carte est de récolter toutes les informations envoyées par les différents capteurs, d'en faire la synthèse et d'envoyer le bilan à la carte principale. Elle permet d'avoir une représentation précise de l'environnement du robot.
 
